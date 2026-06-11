@@ -1,6 +1,6 @@
 # JaRiksa Mobile App 📱✨
 
-**JaRiksa** adalah aplikasi mobile berbasis Flutter yang dirancang untuk mengelola operasional bisnis laundry (contoh: *Roketto Laundry*). Aplikasi ini dilengkapi dengan integrasi deteksi kerusakan pakaian atau sepatu menggunakan teknologi AI, pendaftaran pelanggan, pemrosesan transaksi, pelacakan status pesanan, serta pembayaran online terintegrasi.
+**JaRiksa** adalah platform manajemen kualitas jasa berbasis Cloud dan Integrated Vision AI yang mengotomatisasi inspeksi barang dan menghasilkan dokumentasi digital yang objektif sebelum pengerjaan dimulai. Dengan bukti kondisi barang yang aman dan dapat dipertanggungjawabkan, JaRiksa membantu UMKM jasa mengurangi sengketa, melindungi pendapatan, dan meningkatkan kepercayaan pelanggan.
 
 ---
 
